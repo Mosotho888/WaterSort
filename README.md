@@ -1,4 +1,4 @@
-# sed -i 's/\<Developmets\>/Production/'
+sed -i 's/\<Developmets\>/Production/'
 # WaterSort
 Sorting colours in different tubes
 
