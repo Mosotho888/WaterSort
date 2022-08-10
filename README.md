@@ -1,4 +1,4 @@
-sed -i 's/\<Developmets\>/Production/'
+Production
 # WaterSort
 Sorting colours in different tubes
 
